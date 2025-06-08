@@ -1,4 +1,4 @@
-# Simple Chatbot using spaCy
+# Simple Chatbot using ChatterBot
 
 This is a simple command-line chatbot application built with Python and spaCy. It uses basic keyword matching to generate responses and demonstrates how to integrate spaCy's NLP model for tokenization.
 
